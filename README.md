@@ -33,8 +33,12 @@ This project leverages AI, machine learning, and computer vision to detect the "
    
    **Usage**
    
-   To run the program, use the following command:
-   ```bash
-   python detect_signal_for_help.py
+   
 
+
+
+
+<img width="555" alt="help_detect" src="https://github.com/user-attachments/assets/2671cec1-472a-4097-a238-7c75a49527ca">
+<img width="839" alt="help1" src="https://github.com/user-attachments/assets/45b80825-73d5-4396-869b-856bd0e5d61e">
+<img width="610" alt="help2" src="https://github.com/user-attachments/assets/09b05bcf-7b4b-4413-93f1-b3987de87790">
 
